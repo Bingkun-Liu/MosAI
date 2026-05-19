@@ -151,14 +151,14 @@ The project poster is included here:
    python src/rank_gallery.py
    ```
 
-## Interview Talking Points
+<<## Interview Talking Points
 
 - Built a reproducible comparison pipeline for pretrained visual and multimodal embeddings.
 - Used a shared train/test split so model comparisons are fair.
 - Combined representation learning with classical regression to predict human aesthetic ratings.
 - Compared both accuracy metrics and model error patterns, not just leaderboard scores.
 - Added a shuffled-label sanity check to test for leakage or spurious fitting.
-- Built local HTML galleries to inspect which artworks each model rated well or poorly while keeping collaborator images out of the public repository.
+- Built local HTML galleries to inspect which artworks each model rated well or poorly while keeping collaborator images out of the public repository.>>
 
 ## Limitations
 
